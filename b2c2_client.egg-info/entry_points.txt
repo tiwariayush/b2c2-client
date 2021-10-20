@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        b2c2-client=b2c2_trade:main
+    

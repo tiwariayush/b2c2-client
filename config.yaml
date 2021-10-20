@@ -1,0 +1,5 @@
+auth_token: "Token e13e627c49705f83cbe7b60389ac411b6f86fee7"
+base_url: "https://api.uat.b2c2.net"
+timeout_seconds: 3
+max_retries: 5
+log_level: DEBUG
